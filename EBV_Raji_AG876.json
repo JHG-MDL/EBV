@@ -6,7 +6,7 @@
   "chromosomeOrder": ["NC_007605.1", "NC_009334.1"],
   "tracks": [
     {
-      "name": "Gene models (Type1 + Type2)",
+      "name": "Annotations",
       "url": "https://raw.githubusercontent.com/JHG-MDL/EBV/main/EBV_Raji_AG876.genes.sorted.gff3.gz",
       "indexURL": "https://raw.githubusercontent.com/JHG-MDL/EBV/main/EBV_Raji_AG876.genes.sorted.gff3.gz.tbi",
       "format": "gff3",
