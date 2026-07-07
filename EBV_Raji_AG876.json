@@ -3,10 +3,10 @@
   "name": "Epstein-Barr Virus (Type 1 / Type 2)",
   "fastaURL": "https://raw.githubusercontent.com/JHG-MDL/EBV/main/EBV_Raji_AG876.fa",
   "indexURL": "https://raw.githubusercontent.com/JHG-MDL/EBV/main/EBV_Raji_AG876.fa.fai",
-  "chromosomeOrder": ["Type1", "Type2"],
+  "chromosomeOrder": ["NC_007605.1", "NC_009334.1"],
   "tracks": [
     {
-      "name": "Annotations",
+      "name": "Gene models (Type1 + Type2)",
       "url": "https://raw.githubusercontent.com/JHG-MDL/EBV/main/EBV_Raji_AG876.genes.sorted.gff3.gz",
       "indexURL": "https://raw.githubusercontent.com/JHG-MDL/EBV/main/EBV_Raji_AG876.genes.sorted.gff3.gz.tbi",
       "format": "gff3",
